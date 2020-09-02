@@ -1,1 +1,1 @@
-# Leaf gas exchange standard
+# Leaf gas exchange data and metadata reporting format
