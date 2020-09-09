@@ -1,6 +1,6 @@
-# ESS-DIVE Leaf Gas Exchange Reporting Format Instructions
+# ESS-DIVE leaf-level gas exchange reporting format instructions
 
-A data package containing leaf gas exchange data, must comprise, at a minimum: 
+A data package containing leaf-level gas exchange data must include, at a minimum: 
 
 1. Assemble the data table, using the standard [variableNames and variableUnits](variables.md). If the data is a described data type under this format, then the data table must include the required variables for that data type. 
 
@@ -13,5 +13,5 @@ A data package containing leaf gas exchange data, must comprise, at a minimum:
 5. Prepare methods supplements tables to define codes used to capture sample characteristics in the data tables. See our [supplement metadata guide](suppGuide.md) for guidance. Save each file as csv file type.
 
 
-We will continue to work with the ESS community to improve data and metadata reporting formats for leaf gas exchange data. Please [contribute](contribute.md) by submitting issues, using our issue templates, or contact ess-dive-support@lbl.gov to provide any feedback on the process of formatting data, specific metadata fields or controlled vocabulary terms.
+We will continue to work with the ESS community to improve data and metadata reporting formats for leaf-level gas exchange data. Please [contribute](contribute.md) by submitting issues, using our issue templates, or contact ess-dive-support@lbl.gov to provide any feedback on the process of formatting data, specific metadata fields or controlled vocabulary terms.
 #
