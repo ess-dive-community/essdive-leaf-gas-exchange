@@ -19,13 +19,13 @@ This leaf level gas exchange data reporting format is evolving and growing to me
 ## About the leaf gas exchange data and metadata reporting format
 
 The ESS-DIVE leaf gas exchange data and metadata reporting format has been developed to meet the needs of the community for a unified reporting format. This initial effort covers the most common variables and provides templates for metadata reporting. Additional reporting requirements have been developed for seven common data types: 
-	Survey
-	Response of photosynthesis to intercellular CO2 concentration (ACi curves)
-	Photosynthetic parameters derived from ACi curves
-	Vcmax from one point
-	Response of photosynthesis to irradiance (AQ curves)
-	Photosynthetic parameters derived from AQ curves
-	Dark adapted respiration
+	* Survey
+	* Response of photosynthesis to intercellular CO2 concentration (ACi curves)
+	* Photosynthetic parameters derived from ACi curves
+	* Vcmax from one point
+	* Response of photosynthesis to irradiance (AQ curves)
+	* Photosynthetic parameters derived from AQ curves
+	* Dark adapted respiration
 
 For a full description of the reporting format, refer to our upcoming paper, “A reporting format for leaf-level gas exchange data and metadata”, Ecological Informatics (submitted).  
 
