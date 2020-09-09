@@ -8,7 +8,7 @@ This documentation contains guidance for the content and format of leaf gas exch
 
 Other documents to get started:
 - [Methods metadata template](methodsMetaTemplate.xlsx): Download spreadsheet template for recording experiment and methods metadata. 
-- [Instrument details template](instrumentTemplate.xlsx): Download spreadsheet template to record instrument details. 
+- [Instrument details template](instrumentDetailsTemplate.xlsx): Download spreadsheet template to record instrument details. 
 
 
 ## How to contribute: 
