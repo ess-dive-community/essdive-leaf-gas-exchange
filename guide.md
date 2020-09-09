@@ -1,4 +1,4 @@
-# ESS-DIVE Leaf Gas Exchange Data and Metadata Reporting Format Guide
+# ESS-DIVE leaf-level gas exchange data and metadata reporting format guide
 
 Here you will find guidelines for using this reporting format.
 
