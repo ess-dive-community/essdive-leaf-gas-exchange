@@ -1,6 +1,6 @@
 # Guidelines for contributing
 
-Here's how you can contribute to ESS-DIVE's leaf gas exchange data and metadata reporting format:
+Here's how you can contribute to ESS-DIVE's leaf-level gas exchange data and metadata reporting format:
 
 * Want to make a change to the reporting format? Copy and paste one of the **issue templates** below and [submit a new issue](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/issues/new).
 * Have a question? Contact us at ess-dive-support@lbl.gov. 
