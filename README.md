@@ -39,4 +39,4 @@ The format was developed with input and feedback of over 80 subject experts, inc
 
 ## Recommended citation
 
-_ESS-DIVE citation will be provided when available._ 
+Ely K.S., Rogers A, Crystal-Ornelas R (2020): ESS-DIVE reporting format for leaf-level gas exchange data and metadata. Environmental Systems Science Data Infrastructure for a Virtual Ecosystem. doi:10.15485/1659484
