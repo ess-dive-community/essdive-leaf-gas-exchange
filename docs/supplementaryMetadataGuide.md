@@ -3,15 +3,15 @@ Supplementary metadata tables should be provided to explain codes used in data t
 
 Here are some typical examples of how to present these metadata. Tables should be included in data packages as .csv files.
 
-# Species information example
+### Species information example
 **Metadata variable**|**Format**|**Description**|**Example**
 -----|-----|-----|-----
 speciesCode|Free text|Code used to identify species in data tables|JUOC
-species |Free text|Full species name and subspecies if applicable|Juniperus occidentalis
+species |Free text|Full species name and subspecies if applicable|*Juniperus occidentalis*
 genotype|Free text|Identified genotype or mutant| 
 citation|Free text|Reference for species authority|Hook.
 
-# Locations or plot details example
+### Locations or plot details example
 **Metadata variable**|**Format**|**Description**|**Example**
 -----|-----|-----|-----
 siteIdentifier|Free text|Plot or plant within this experiment for which position is being reported|Plot07
