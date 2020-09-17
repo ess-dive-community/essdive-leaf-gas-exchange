@@ -1,8 +1,9 @@
 ## Defined variables
 This table shows variable names and units that should be used in data tables. Expected range values cover most plants for standard experimental conditions and may be used as a guide for quality checking.
 
-**variableName**|**variableUnit**|**variableDescription**|**expectedValueRange**| 
------|-----|-----|-----|-----
+**variableName**|**variableUnit**|**variableDescription**|**expectedValueRangeMin**|**expectedValueRangeMax**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Instrument outputs| | | | 
 date|YYYY-MM-DD|Date of observation| | 
 time|HH:MM:SS|Time of observation| | 
 record|-|Observation record number| | 
@@ -29,7 +30,6 @@ RHs|%|Relative humidity of air inside the chamber|0|100
 Tair|°C|Air temperature inside the chamber|-20|70
 Tleaf|°C|Leaf surface temperature|-20|70
 VPDleaf|kPa|Leaf to air vapor pressure deficit |0|5
- | | | | 
 Calculated parameters| | | | 
 AsatG|µmol m⁻² s⁻¹|Maximum rate of gross CO2 assimilation derived from the light response curve. Equivalent to total of CO2 assimilation and CO2 release.| | 
 CE|mol m⁻² s⁻¹|Maximum carboxylation efficiency, based on an empirical determination of the initial slope of an A-Ci curve| | 
@@ -56,7 +56,6 @@ Vcmax|µmol m⁻² s⁻¹|Maximum rate of carboxylation at measurement temperatu
 Vcmax25|µmol m⁻² s⁻¹|Maximum rate of carboxylation, at the reference temperature 25 degrees Celcius, calculated assuming infinite mesophyl conductance, i.e. apparent Vcmax|0|500
 Vpmax|µmol m⁻² s⁻¹|Phosphoenolpyruvate (PEP) saturated PEP carboxylation at measurement temperature| | 
 WUEi|µmol mol⁻¹|Intrinsic water use efficiency. Net CO2 exchange per leaf area divided by stomatal conductance to water vapor per leaf area| | 
- | | | | 
 Constants| | | | 
 Alpha|-|Leaf absorptance of visible radiation (400-730 nm)|0|1
 EaGammaStar|kJ mol⁻¹|Activation energy associated with the temperature response of gammaStar| | 
