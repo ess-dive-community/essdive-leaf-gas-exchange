@@ -3,7 +3,6 @@ This table shows variable names and units that should be used in data tables. Ex
 
 **variableName**|**variableUnit**|**variableDescription**|**expectedValueRange**| 
 -----|-----|-----|-----|-----
-Instrument outputs| | |minimum|maximum
 date|YYYY-MM-DD|Date of observation| | 
 time|HH:MM:SS|Time of observation| | 
 record|-|Observation record number| | 
