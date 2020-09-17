@@ -5,7 +5,7 @@ See the variable definitions table for variable names and units that should be u
 Meanwhile, here is a summary of the required variables to be included in a data table of each data type
 
 **variableName**|**survey**|**ACi curves**|**Photosynthetic parameters derived from ACi curves**|**Vcmax from one-point**|**AQ curves**|**Photosynthetic parameters derived from AQ curves**|**Dark adapted respiration**
------|-----|-----|-----|-----|-----|-----|-----
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 A|x|x| |x|x| |x
 Ci|x|x| |x|x|x| 
 CO2s|x| | | |x|x| 
