@@ -1,7 +1,7 @@
 ## Instrument Output Translation
 This table shows the mapping of variable names from the default instrument output files to the corresponding variables defined in this standard. 
 
-|**Defined variables**| | |**ADC iFL**| | |**ADC LCi T**| | |**ADC proT**| | |**CID CI-340**| | |**Licor 6400XT**| | |**Licor 6800**| | |**PP Systems CIRAS-2**| | |**PP Systems CIRAS-3**| | |**PP Systems TARGAS-1**| | |**Walz GFS-3000**| | 
+|**Defined variables**| | |**ADC iFL**| | |**ADC LCi T**| | |**ADC proT**| | |**CID CI-340**| | |**Licor 6400XT**| | |**Licor 6800**| | |**PP Systems CIRAS-2**| | |**PP Systems CIRAS-3**| | |**PP Systems TARGAS-1**| | |**Walz GFS-3000**| | |
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 variableName|variableUnit|variableDescription|variableName|variableUnit|variableDescription|variableName|variableUnit|variableDescription|variableName|variableUnit|variableDescription|variableName|variableUnit|variableDescription|variableName|variableUnit|variableDescription|variableName|variableUnit|variableDescription|variableName|variableUnit|variableDescription|variableName|variableUnit|variableDescription|variableName|variableUnit|variableDescription|variableName|variableUnit|variableDescription
 date|YYYY-MM-DD|Date of observation|Dt|-|Date (text)|Dt|-|Date (text)|Dt|-|Date (text)|Year, M, D|-|Current year; Current month; Current day (3 separate columns)|YYYYMMDD|-|Date code (integer)|date|-|Date of last observation|Date| | |ExcelTime| | |Date|dd/mm/yy| |Date|yyyy-mm-dd|Date
