@@ -6,7 +6,7 @@
 
 |data type       |
 |:---------------|
-|[Protocols for all data types](#Protocols for all data types)       |
+|[Protocols for all data types](#Protocols-for-all-data-types)|
 |[Survey](#survey)| 
 |[Response of photosynthesis to intercellular CO2 concentration (ACi curves)](#Response-of-photosynthesis-to-intercellular-CO2-concentration)|
 |[Photosynthetic parameters derived from ACi curves](#Photosynthetic-parameters-derived-from-ACi-curves) | 
