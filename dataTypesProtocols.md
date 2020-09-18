@@ -6,7 +6,7 @@
 
 |data type       |
 |:---------------|
-|[NA](#NA)       |
+|[Protocols for all data types](#Protocols for all data types)       |
 |[Survey](#survey)| 
 |[Response of photosynthesis to intercellular CO2 concentration (ACi curves)](#Response-of-photosynthesis-to-intercellular-CO2-concentration)|
 |[Photosynthetic parameters derived from ACi curves](#Photosynthetic-parameters-derived-from-ACi-curves) | 
@@ -17,8 +17,8 @@
 
 ---
 
-### NA
-|data type                |NA|
+### Protocols for all data types
+|data type                |Protocols for all data types|
 |:------------------------|:----------------------------------------------------|
 |**summary**              |measurementProtocols required for all data types|
 |**description**          |The measurementProtocol elements listed in this row are required for all data types.|
