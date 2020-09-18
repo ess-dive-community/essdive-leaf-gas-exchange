@@ -1,4 +1,4 @@
-# ESS-DIVE leaf gas exchange guide
+# Guide to data types and required protocol details 
 
 ---
 
