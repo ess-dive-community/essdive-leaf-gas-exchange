@@ -7,8 +7,8 @@ This documentation contains guidance for the content and format of leaf-level ga
 [ESS-DIVE's leaf-level gas exchange reporting format guide](guide.md): <br>User guide for how to use this reporting format. 
 
 Other documents to get started:
-- [Methods metadata template](methodsMetaTemplate.xlsx): Download spreadsheet template for recording experiment and methods metadata. 
-- [Instrument details template](instrumentDetailsTemplate.xlsx): Download spreadsheet template to record instrument details. 
+- [Methods metadata template](methodsMetaTemplateV0.0.xlsx): Download spreadsheet template for recording experiment and methods metadata. 
+- [Instrument details template](instrumentDetailsTemplateV0.0.xlsx): Download spreadsheet template to record instrument details. 
 
 
 ## How to contribute: 
