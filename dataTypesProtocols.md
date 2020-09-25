@@ -38,13 +38,13 @@
 |:------------------------|:----------------------------------------------------|
 |**summary**              |A series of sequential measurements on a single leaf of leaf gas exchange with varying CO2 concentration.|
 |**description**          |The response of photosynthesis to intercellular carbon dioxide concentration determined by measuring the response of photosynthesis to changes in chamber carbon dioxide concentrations at saturating irradiance and stable leaf temperature. Measurements are typically made after a stabilization period to achieve steady state gas exchange. An alternative approach where CO2 concentration is adjusted rapidly after no period of stabilization can also be used for some species (RACiR).|
-|requiredProtocols**      |Time period of leaf acclimation to chamber conditions, and if steady state gas exchange was achieved. Irradiance used, if it is considered saturating and how saturating light levels were determined. Sequence and timing of CO2 concentration changes.|
-|references**             |Long & Bernacchi (2003), Stinziano et al (2017)|
+|**requiredProtocols**      |Time period of leaf acclimation to chamber conditions, and if steady state gas exchange was achieved. Irradiance used, if it is considered saturating and how saturating light levels were determined. Sequence and timing of CO2 concentration changes.|
+|**references**             |Long & Bernacchi (2003), Stinziano et al (2017)|
 
 ### Photosynthetic parameters derived from ACi curves
 |data type                |Photosynthetic parameters derived from ACi curves |
 |:------------------------|:----------------------------------------------------|
-|**summary**              |Results of fitting photosynthetic CO2 response curves to derive parameters, e.g. apparent Vcmax, Jmax, TPU|
+|**summary**              |Results of fitting photosynthetic CO<sub>2</sub> response curves to derive parameters, e.g. apparent Vcmax, Jmax, TPU|
 |**description**          |Results of fitting ACi curves to a photosynthesis model to derive parameters, e.g. apparent Vcmax, Jmax, TPU. Apparent Vcmax is calculated based on Ci (rather than Cc) and assumes an infinite mesophyll conductance to CO2.|
 |**requiredProtocols**    |Method for fitting data (provide reference or code repository). Include kineticConstants and their temperature dependency in methodsMetadata.|
 |**references**           |Bernacchi et al. (2013), Collatz (1992), von Caemmerer (2000), Dubois et al (2007), Duursma et al (2015), Farquhar et al (1980), Gu et al. (2010), Sharkey et al (2007), Zhou et al (2019)|
