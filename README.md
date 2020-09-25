@@ -11,7 +11,7 @@ Other documents to get started:
 - [Instrument details template](instrumentDetailsTemplateV0.0.xlsx): Download spreadsheet template to record instrument details. 
 
 
-## How to contribute: 
+## How to contribute 
 
 This leaf-level gas exchange data reporting format is evolving and growing to meet the needs of the community. Feedback and new contributions are welcome. See our [guide on how to contribute](contribute.md) to the leaf gas exchange reporting format. 
 
