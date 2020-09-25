@@ -1,4 +1,4 @@
-# ESS-DIVE Leaf-level Gas Exchange Methods Metadata Guide
+# Leaf-level Gas Exchange Methods Metadata Guide
 
 This page provides guidelines and expectations for completion of the methods metadata template. Note that while defined vocabulary terms are suggested, most variables may be complete with free text entries if required.
 
