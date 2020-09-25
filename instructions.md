@@ -1,4 +1,4 @@
-# ESS-DIVE leaf-level gas exchange reporting format instructions
+# Leaf-level gas exchange reporting format instructions
 
 A data package containing leaf-level gas exchange data must include, at a minimum: 
 
