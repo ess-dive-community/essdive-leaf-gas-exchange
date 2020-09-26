@@ -9,7 +9,4 @@
     * [Defined variables](docs/definedVariables.md)
     * [Instrument output translation](docs/instrumentOutputTranslation.md)
     * [Guide to preparing supplementary metadata for leaf-level gas exchange data](docs/supplementaryMetadataGuide.md)
-* Templates
-   * [Instrument details template](templates/instrumentDetailsTemplateV0.0.xlsx)
-   * [Methods metadata template](templates/instrumentDetailsTemplateV0.0.xlsx)
 * [Guidelines for contributing](contribute.md)    
