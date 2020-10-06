@@ -96,7 +96,7 @@ The main purpose of this metadata collection will be to aid data search with som
 |**Metadata Element**|mesophyllConductanceType|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Required, Recommended, or Optional**|`optional`|
-|**Description**|Describe assumption or measurement of mesophyll conductance. Infinite mesophyll conductance assumes intercellular CO2 concentration (Ci) is equal to the CO2 concentration at the site of carboxylation inside the chloroplast (Cc).|
+|**Description**|Describe assumption or measurement of mesophyll conductance. Infinite mesophyll conductance assumes intercellular CO<sub>2</sub> concentration (C<sub>i</sub>) is equal to the CO<sub>2</sub> concentration at the site of carboxylation inside the chloroplast (C<sub>c</sub>).|
 |**Format**|Controlled vocabulary|
 |**Additional instructions**||
 |**Controlled vocabulary terms**|assumed infinite; measured|
