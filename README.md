@@ -6,7 +6,7 @@ This documentation contains guidance for the content and format of leaf-level ga
 
 The ESS-DIVE leaf-level gas exchange data and metadata reporting format has been developed to meet the needs of the community for a unified reporting format. This initial effort covers the most common variables and provides templates for metadata reporting. Additional reporting requirements have been developed for seven common data types: 
 * Survey
-* Response of photosynthesis to intercellular CO$$_2$$ concentration (ACi curves)
+* Response of photosynthesis to intercellular Gitbook: CO$$_2$$ Github: CO<sub>2</sub> Unicode: CO&#2082;concentration (ACi curves)
 * Photosynthetic parameters derived from ACi curves
 * Vcmax from one point
 * Response of photosynthesis to irradiance (AQ curves)
