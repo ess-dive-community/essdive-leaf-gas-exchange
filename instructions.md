@@ -2,7 +2,7 @@
 
 A data package containing leaf-level gas exchange data must include, at a minimum: 
 
-1. Assemble the data table, using the standard [variableNames and variableUnits](definedVariables.md). If the data is a described [data type](dataTypesProtocols.md) under this format, then the data table must include the [required variables](requiredVariables.md) for that data type. 
+1. Assemble the data table, using the standard [variableNames and variableUnits](docs/definedVariables.md). If the data is a described [data type](dataTypesProtocols.md) under this format, then the data table must include the [required variables](requiredVariables.md) for that data type. 
 
 2. Collate the full instrument output files, and assess the quality control level.
 
