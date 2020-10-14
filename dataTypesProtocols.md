@@ -6,14 +6,14 @@
 
 |data type       |
 |:---------------|
-|[Protocols for all data types](#Protocols-for-all-data-types)|
+|[Protocols for all data types](#protocols-for-all-data-types)|
 |[Survey](#survey)| 
 |[Response of photosynthesis to intercellular CO&#8322; concentration (ACi curves)](#response-of-photosynthesis-to-intercellular-co-concentration-aci-curves)|
-|[Photosynthetic parameters derived from ACi curves](#Photosynthetic-parameters-derived-from-ACi-curves) | 
-|[Vcmax from one-point](#Vcmax-from-one-point) | 
-|[Response of photosynthesis to irradiance (AQ curves)](#Response-of-photosynthesis-to-irradiance) | 
-|[Photosynthetic parameters derived from AQ curves](#Photosynthetic-parameters-derived-from-AQ-curves) | 
-|[Dark adapted respiration](#Dark-adapted-respiration)|
+|[Photosynthetic parameters derived from ACi curves](#photosynthetic-parameters-derived-from-ACi-curves) | 
+|[Vcmax from one-point](#vcmax-from-one-point) | 
+|[Response of photosynthesis to irradiance (AQ curves)](#response-of-photosynthesis-to-irradiance) | 
+|[Photosynthetic parameters derived from AQ curves](#photosynthetic-parameters-derived-from-AQ-curves) | 
+|[Dark adapted respiration](#dark-adapted-respiration)|
 
 ---
 
