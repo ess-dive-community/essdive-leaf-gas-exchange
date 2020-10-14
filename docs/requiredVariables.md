@@ -1,5 +1,5 @@
 ## Required variables for data tables
-Data tables for a described [data type](../dataTypesProtocols.md) must contain variables as indicated in this table. Note that this is a minumum requirement, any data table may also contain any additional variables. Refer to the [variable definitions table](docs/definedVariables.md) for variable names and units that should be used in data tables. 
+Data tables for a described [data type](../dataTypesProtocols.md) must contain variables as indicated in this table. Note that this is a minumum requirement, any data table may also contain any additional variables. Refer to the [variable definitions table](./definedVariables.md) for variable names and units that should be used in data tables. 
 
 **variableName**|**survey**|**ACi curves**|**Photosynthetic parameters derived from ACi curves**|**Vcmax from one-point**|**AQ curves**|**Photosynthetic parameters derived from AQ curves**|**Dark adapted respiration**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
