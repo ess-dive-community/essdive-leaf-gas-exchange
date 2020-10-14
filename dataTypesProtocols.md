@@ -8,7 +8,7 @@
 |:---------------|
 |[Protocols for all data types](#Protocols-for-all-data-types)|
 |[Survey](#survey)| 
-|[Response of photosynthesis to intercellular CO&#8322; concentration (ACi curves)](#Response-of-photosynthesis-to-intercellular-CO&#8322;-concentration)|
+|[Response of photosynthesis to intercellular CO&#8322; concentration (ACi curves)](#Response-of-photosynthesis-to-intercellular-CO&#8322)|
 |[Photosynthetic parameters derived from ACi curves](#Photosynthetic-parameters-derived-from-ACi-curves) | 
 |[Vcmax from one-point](#Vcmax-from-one-point) | 
 |[Response of photosynthesis to irradiance (AQ curves)](#Response-of-photosynthesis-to-irradiance) | 
@@ -33,7 +33,7 @@
 |**requiredProtocols**    |Where relevant, methods used to determine environmental condition set points (air temperature, relative humidity, VPD, irradiance, CO&#8322; concentration). Measurement methods, including use of ambient or altered conditions, and how long leaf was in chamber prior to data collection. Indicate if reported values are single measurements or averaged values. |
 |**references**           |Jarvis & Davies (1998), Rogers et al (2004), Halbritter et al (2020). |
 
-### Response of photosynthesis to intercellular CO&#8322; concentration
+### Response of photosynthesis to intercellular CO&#8322
 |data type                |Response of photosynthesis to intercellular CO&#8322; concentration (ACi curves)|
 |:------------------------|:----------------------------------------------------|
 |**summary**              |A series of sequential measurements on a single leaf of leaf gas exchange with varying CO&#8322; concentration.|
