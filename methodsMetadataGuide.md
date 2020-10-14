@@ -10,29 +10,41 @@ The main purpose of this metadata collection will be to aid data search with som
 
 `*` indicate required content
 
-[dataTypes*](#dataTypes) | 
-[additionalDataIncluded*](#additionalDataIncluded) | 
-[instrumentOutputStatus*](#instrumentOutputStatus)
+[dataTypes*](#datatypes) | 
+[additionalDataIncluded*](#additionaldataincluded) | 
+[instrumentOutputStatus*](#instrumentoutputstatus)
 
-[photosyntheticPathway*](#photosyntheticPathway) | 
-[leafMorphology*](#leafMorphology) | 
-[requiredProtocols*](#requiredProtocols)
+---
 
-[mesophyllConductanceType](#mesophyllConductanceType) | 
-[leafStatus*](#leafStatus) | 
-[leafAreaBasis*](#leafAreaBasis) 
+[photosyntheticPathway*](#photosyntheticpathway) | 
+[leafMorphology*](#leafmorphology) | 
+[requiredProtocols*](#requiredprotocols)
 
-[leafAreaMethod*](#leafAreaMethod)  | 
-[kineticConstants](#kineticConstants) | 
-[growthEnvironment*](#growthEnvironment) 
+---
 
-[experimentalManipulation*](#experimentalManipulation)  | 
-[plantAge*](#plantAge) | 
-[leafAge*](#leafAge)
+[mesophyllConductanceType](#mesophyllconductancetype) | 
+[leafStatus*](#leafstatus) | 
+[leafAreaBasis*](#leafareabasis) 
 
-[canopyPosition*](#canopyPosition) | 
-[canopyHeight*](#canopyHeight) | 
-[lightExposure*](#lightExposure)
+---
+
+[leafAreaMethod*](#leafareamethod)  | 
+[kineticConstants](#kineticconstants) | 
+[growthEnvironment*](#growthenvironment) 
+
+---
+
+[experimentalManipulation*](#experimentalmanipulation)  | 
+[plantAge*](#plantage) | 
+[leafAge*](#leafage)
+
+---
+
+[canopyPosition*](#canopyposition) | 
+[canopyHeight*](#canopyheight) | 
+[lightExposure*](#lightexposure)
+
+---
 
 ### dataTypes
 |**Metadata Element**|dataTypes|
