@@ -13,7 +13,7 @@ The ESS-DIVE leaf-level gas exchange data and metadata reporting format has been
 * Photosynthetic parameters derived from AQ curves
 * Dark adapted respiration
 
-For a full description of the reporting format, refer to our upcoming paper, “A reporting format for leaf-level gas exchange data and metadata”, Ecological Informatics (submitted).  
+For a full description of the reporting format, refer to our upcoming paper, “A reporting format for leaf-level gas exchange data and metadata”, Ecological Informatics (accepted).  
 
 ## Getting started
 
