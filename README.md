@@ -38,6 +38,7 @@ Funding for the development of ESS-DIVE's leaf-level gas exchange data and metad
 The format was developed with input and feedback of over 80 subject experts, including data collectors, data scientists, data users (empiricists and modelers), and instrument manufacturers. Thank you all. 
 
 For further description of the reporting format, and the development process, refer to:
+
 Ely et al (2021). A reporting format for leaf-level gas exchange data and metadata. Ecological Informatics (accepted). 
 
 ## Recommended citation
