@@ -18,3 +18,6 @@ siteIdentifier|Free text|Plot or plant within this experiment for which position
 longitude|Decimal degrees|Longitude|-122.18877
 latitude|Decimal degrees|Latitude|46.197905
 elevation|Meters above sea level|Elevation of location|2155
+
+### Additional metadata tables or text
+The requirement for methods supplement tables or text documents will depend on the experimental setup. Where available and appropriate consider including the following information in a gas exchange data package: biome, ecosystem type, climate, local seasonality, timing of measurements relative to the growing season, data time zone and relationship with solar noon, environmental conditions at time of measurement, soil type, canopy exposure, canopy height and depth, terrain, aspect, seed provenance, genetic details, pot size, instrument configuration and measurement scripts.
