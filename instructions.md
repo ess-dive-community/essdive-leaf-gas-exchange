@@ -12,6 +12,10 @@ A data package containing leaf-level gas exchange data must include, at a minimu
 
 5. Prepare methods supplements tables to define codes used to capture sample characteristics in the data tables. See our [supplement metadata guide](docs/supplementaryMetadataGuide.md) for guidance. Save each file as csv file type.
 
+## Additional information
+Inclusion of additional related datasets with gas exchange data is encouraged. This can include measurements made inline, such as fluorescence or isotopic measurements, or subsequent analysis of chemical composition or physical properties. Related data should be linked by using common sample identifiers. 
+
+Defined variables should be used where available. For variables not yet covered by this reporting format documentation, data contributors should use machine readable variable names that are in common use. 
 
 We will continue to work with the ESS community to improve data and metadata reporting formats for leaf-level gas exchange data. Please [contribute](contribute.md) by submitting issues, using our issue templates, or contact ess-dive-support@lbl.gov to provide any feedback on the process of formatting data, specific metadata fields or controlled vocabulary terms.
 #
