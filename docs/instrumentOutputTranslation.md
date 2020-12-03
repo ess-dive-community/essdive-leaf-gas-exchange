@@ -1,5 +1,5 @@
 ## Instrument Output Translation
-This table shows the mapping of variable names from the default instrument output files to the corresponding variables defined in this standard. 
+This table shows the mapping of variable names from the default instrument output files to the corresponding variables defined in this standard. Note that copying and pasting the content of this table into a spreadsheet may improve readability for some viewers. 
 
 |**Defined variables**| | |**ADC iFL**| | |**ADC LCi T**| | |**ADC proT**| | |**CID CI-340**| | |**Licor 6400XT**| | |**Licor 6800**| | |**PP Systems CIRAS-2**| | |**PP Systems CIRAS-3**| | |**PP Systems TARGAS-1**| | |**Walz GFS-3000**| | |
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
