@@ -70,7 +70,7 @@ The main purpose of this metadata collection will be to aid data search with som
 |**Required Recommended Optional**|`required`|
 |**Description**|Indicate the highest quality status of complete instrument output included in the data package. Multiple versions may be included. |
 |**Format**|Controlled vocabulary|
-|**Additional Instructions**|0 = data not available. 1 = direct instrument download, minimal quality control. 2 = complete quality control, files are verified to only contain valid data, or, invalid data is flagged. Measurement values are reasonable and within expected range. Area corrections are made where required. |
+|**Additional Instructions**|0 = data not available. 1 = direct instrument download, minimal quality control. 2 = complete quality control, files are verified to only contain valid data, or, invalid data is flagged. Measurement values are reasonable and within expected range. Area corrections are made where required. Time and dates verified as correct. User input errors corrected. |
 |**Controlled vocabulary terms**|0; 1; 2|
 
 ---
