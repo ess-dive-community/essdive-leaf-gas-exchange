@@ -31,6 +31,8 @@ This leaf-level gas exchange data reporting format is evolving and growing to me
 
 ## Copyright information
 
+The Leaf-leaf gas exchage data and metadata reporting format is licensed under the Creative Commons Attribution 4.0 International (CCby4).
+
 ## Funding and acknowledgements
 
 Funding for the development of ESS-DIVE's leaf-level gas exchange data and metadata reporting format was provided by the US Department of Energy (DOE), Biological and Environmental Research Program, Earth and Environmental Systems Sciences Division, Data Management.
