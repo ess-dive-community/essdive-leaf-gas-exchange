@@ -36,7 +36,7 @@
 ### Response of photosynthesis to intercellular CO&#8322; concentration (ACi curves)
 |data type                |Response of photosynthesis to intercellular CO&#8322; concentration (ACi curves)|
 |:------------------------|:----------------------------------------------------|
-|**summary**              |A series of sequential measurements on a single leaf of leaf gas exchange with varying CO&#8322; concentration.|
+|**summary**              |Sequential measurements on a the same leaf material of leaf gas exchange with varying CO&#8322; concentration.|
 |**description**          |The response of photosynthesis to intercellular carbon dioxide concentration determined by measuring the response of photosynthesis to changes in chamber carbon dioxide concentrations at saturating irradiance and stable leaf temperature. Measurements are typically made after a stabilization period to achieve steady state gas exchange. An alternative approach where CO&#8322; concentration is adjusted rapidly after no period of stabilization can also be used for some species (RACiR).|
 |**requiredProtocols**      |Time period of leaf acclimation to chamber conditions, and if steady state gas exchange was achieved. Irradiance used, if it is considered saturating and how saturating light levels were determined. Sequence and timing of CO&#8322; concentration changes.|
 |**references**             |Long & Bernacchi (2003), Stinziano et al (2017)|
@@ -60,7 +60,7 @@
 ### Response of photosynthesis to irradiance
 |data type                |Response of photosynthesis to irradiance (AQ curves)|
 |:------------------------|:----------------------------------------------------|
-|**summary**              |A series of sequential measurements on a single leaf of photosynthetic rate with varying irradiance|
+|**summary**              |Sequential measurements on the same leaf material of photosynthetic rate with varying irradiance|
 |**description**          |The response of photosynthesis to irradiance determined by measuring the response of photosynthesis to changes in irradiance at constant leaf temperature and atmospheric CO&#8322; concentration. Response curves can be measured slowly to allow full stomatal acclimation to each new level of irradiance (> 15 minutes at each step) or rapidly when the response of stomata is not of interest. To estimate Rlight a high number of points at low irradiance are required.   |
 |**requiredProtocols**    |Time period of leaf acclimation to chamber conditions, and if steady state gas exchange was achieved. Sequence and timing of irradiance changes. Use of incident or absorbed light. State value used for leaf absorptance, if assumed or measured, and method if measured. Indicate if reported values are single measurements or averaged values. |
 |**references**           |Posada et al (2009), Verryckt et al (2020)|
@@ -68,8 +68,8 @@
 ### Photosynthetic parameters derived from AQ curves
 |data type                |Photosynthetic parameters derived from AQ curves |
 |:------------------------|:----------------------------------------------------|
-|**summary**              |Results of fitting AQ curves to derive parameters|
-|**description**          |Results of fitting AQ curves to a photosynthesis model to derive parameters, e.g. quantum yield of CO&#8322; fixation, light compensation point|
+|**summary**              |Results of fitting light response curves to derive parameters|
+|**description**          |Results of fitting light response curves to a photosynthesis model to derive parameters, e.g. quantum yield of CO&#8322; fixation, light compensation point|
 |**requiredProtocols**    |Method for fitting data (provide reference or code repository).|
 |**references**           |Posada et al (2009)|
 
