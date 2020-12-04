@@ -21,8 +21,8 @@ Instructions for how to use this reporting format:
 - [Leaf-level gas exchange reporting format instructions](instructions.md) 
 
 Other documents to get started:
-- [Methods metadata template](templates/methodsMetadataTemplateV0.1.xlsx): Download spreadsheet template for recording experiment and methods metadata. 
-- [Instrument details template](templates/instrumentDetailsTemplateV0.0.xlsx): Download spreadsheet template to record instrument details. 
+- [Methods metadata template](templates/methodsMetadataTemplate.xlsx): Download spreadsheet template for recording experiment and methods metadata. 
+- [Instrument details template](templates/instrumentDetailsTemplate.xlsx): Download spreadsheet template to record instrument details. 
 
 ---
 ## How to contribute 
