@@ -6,9 +6,9 @@ A data package containing leaf-level gas exchange data must include, at a minimu
 
 2. Collate the full instrument output files, and assess the quality control level. Note that there is no requirement to edit column headers in full instrument output files to standard variable names.  
 
-3. Fill in the [Methods metadata template](templates/methodsMetadataTemplateV0.1.xlsx), ensuring that [required protocols](dataTypesProtocols.md) for each data type are described. See our [methods metadata guide](methodsMetadataGuide.md) for descriptions and instructions for each metadata field. Save as csv file type. A separate methods metadata file should be created for each data type included in the data package. 
+3. Fill in the [Methods metadata template](templates/methodsMetadataTemplate.xlsx), ensuring that [required protocols](dataTypesProtocols.md) for each data type are described. See our [methods metadata guide](methodsMetadataGuide.md) for descriptions and instructions for each metadata field. Save as csv file type. A separate methods metadata file should be created for each data type included in the data package. 
 
-4. Fill in the [Instrument details template](templates/instrumentDetailsTemplateV0.0.xlsx) and save as csv file type.
+4. Fill in the [Instrument details template](templates/instrumentDetailsTemplate.xlsx) and save as csv file type.
 
 5. Prepare methods supplements tables to define codes used to capture sample characteristics in the data tables. See our [supplement metadata guide](docs/supplementaryMetadataGuide.md) for guidance. Save each file as csv file type.
 
