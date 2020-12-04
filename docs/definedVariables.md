@@ -36,7 +36,7 @@ CE|mol m⁻² s⁻¹|Maximum carboxylation efficiency, based on an empirical det
 CiCa|-|Ratio of intercellular CO&#8322; to sample chamber CO&#8322;| | 
 CO2comp|µmol mol⁻¹|CO&#8322; compensation point| | 
 gm|mol m⁻² s⁻¹|Mesophyll conductance to CO&#8322; per leaf area| | 
-J|µmol m⁻² s⁻¹|Rate of electron transport per leaf area at measurement temperature calculated assuming infinite mesophyll conductance for a given irradiance e.g. J1800. Or at reference temperature e.g., J1800,25|0|600
+J|µmol m⁻² s⁻¹|Rate of electron transport per leaf area at measurement temperature calculated assuming infinite mesophyll conductance for a given irradiance e.g. J1800. Or at reference temperature e.g., *J1800,25*|0|600
 Jmax|µmol m⁻² s⁻¹|Maximum rate of electron transport per leaf area at measurement temperature calculated assuming infinite mesophyll conductance and saturating light|0|600
 Jmax25|µmol m⁻² s⁻¹|Maximum rate of electron transport per leaf area, at the reference temperature 25°C calculated assuming infinite mesophyll conductance and saturating light|0|600
 LCP|µmol m⁻²  s⁻¹|Light compensation point. The lowest photosynthetic photon flux density at which positive net CO&#8322; assimilation is observed| | 
@@ -52,7 +52,7 @@ Rday25|µmol m⁻² s⁻¹|CO&#8322; release from the leaf in the light, at the 
 Theta|-|Empirical convexity parameter derived from the non-rectangular hyperbolic model of the light response curve| | 
 TPU|µmol m⁻² s⁻¹|Triose phosphate utilization rate per leaf area at measurement temperature| | 
 TPU25|µmol m⁻² s⁻¹|Triose phosphate utilization rate per leaf area at the reference temperature 25°C| | 
-Vcmax|µmol m⁻² s⁻¹|Maximum rate of carboxylation at measurement temperature, calculated assuming infinite mesophyll conductance, i.e. apparent Vcmax|0|500
+Vcmax|µmol m⁻² s⁻¹|Maximum rate of carboxylation at measurement temperature, calculated assuming infinite mesophyll conductance, i.e. apparent *Vcmax*|0|500
 Vcmax25|µmol m⁻² s⁻¹|Maximum rate of carboxylation, at the reference temperature 25°C, calculated assuming infinite mesophyl conductance, i.e. apparent Vcmax|0|500
 Vpmax|µmol m⁻² s⁻¹|Phosphoenolpyruvate (PEP) saturated PEP carboxylation at measurement temperature| | 
 WUEi|µmol mol⁻¹|Intrinsic water use efficiency. Net CO&#8322; exchange per leaf area divided by stomatal conductance to water vapor per leaf area| | 
@@ -61,12 +61,12 @@ Alpha|-|Leaf absorptance of visible radiation (400-730 nm)|0|1
 EaGammaStar|kJ mol⁻¹|Activation energy associated with the temperature response of gammaStar| | 
 EaKc|kJ mol⁻¹|Activation energy associated with the temperature response of Kc| | 
 EaKo|kJ mol⁻¹|Activation energy associated with the temperature response of Ko| | 
-EaVcmax|kJ mol⁻¹|Activation energy associated with the temperature response of Vcmax| | 
-EaVomax|kJ mol⁻¹|Activation energy associated with the temperature response of Vomax, the maximum rate of oxygenation| | 
+EaVcmax|kJ mol⁻¹|Activation energy associated with the temperature response of *Vcmax*| | 
+EaVomax|kJ mol⁻¹|Activation energy associated with the temperature response of *Vomax*, the maximum rate of oxygenation| | 
 f|-|Fraction of light absorbed by photosystem II that is not used for photochemistry| | 
 gammaStar25|µmol mol⁻¹|CO&#8322; compensation point in the absence of non-photorespiratory CO&#8322; release at the reference temperature of 25°C| | 
 Kc25|µmol mol⁻¹|Michaelis constant for CO&#8322; concentration in air at the reference temperature of 25°C| | 
 Ko25|mmol mol⁻¹|Michaelis constant for O&#8322; concentration in air at the reference temperature of 25°C| | 
 Oi|mmol mol⁻¹|Intercellular O&#8322; concentration in air (default 210 unless experimentally manipulated)| | 
 Tau25|-|CO&#8322;:O&#8322; specificity ratio at a reference temperature of 25°C| | 
-TauQ10|-|Q10 temperature response parameter used to scale Tau25 | | 
+TauQ10|-|Q10 temperature response parameter used to scale *Tau25* | | 
