@@ -27,7 +27,7 @@ Other documents to get started:
 ---
 ## How to contribute 
 
-This leaf-level gas exchange data reporting format is evolving and growing to meet the needs of the community. Feedback and new contributions are welcome, and can be made by submitting an [issue](issues/new/choose).  
+This leaf-level gas exchange data reporting format is evolving and growing to meet the needs of the community. Feedback and new contributions are welcome, and can be made by submitting an [issue or feedback](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/issues/new/choose).  
 
 The issue templates we use are modeled from that provided by Darwin Core:
 Darwin Core maintenance group, Biodiversity Information Standards (TDWG) (2014). Darwin Core. Zenodo. https://doi.org/10.5281/zenodo.592792
