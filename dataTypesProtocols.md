@@ -41,32 +41,32 @@
 |**requiredProtocols**      |Time period of leaf acclimation to chamber conditions, and if steady state gas exchange was achieved. Irradiance used, if it is considered saturating and how saturating light levels were determined. Sequence and timing of CO&#8322; concentration changes.|
 |**references**             |Long & Bernacchi (2003), Stinziano et al (2017)|
 
-### Photosynthetic parameters derived from ACi curves
+### Photosynthetic parameters derived from *ACi* curves
 |data type                |Photosynthetic parameters derived from ACi curves |
 |:------------------------|:----------------------------------------------------|
-|**summary**              |Results of fitting photosynthetic CO&#8322; response curves to derive parameters, e.g. apparent Vcmax, Jmax, TPU|
-|**description**          |Results of fitting ACi curves to a photosynthesis model to derive parameters, e.g. apparent Vcmax, Jmax, TPU. Apparent Vcmax is calculated based on Ci (rather than Cc) and assumes an infinite mesophyll conductance to CO&#8322;.|
+|**summary**              |Results of fitting photosynthetic CO&#8322; response curves to derive parameters, e.g. apparent *Vcmax, Jmax, TPU*|
+|**description**          |Results of fitting *ACi* curves to a photosynthesis model to derive parameters, e.g. apparent *Vcmax, Jmax, TPU*. Apparent *Vcmax* is calculated based on *Ci* (rather than *Cc*) and assumes an infinite mesophyll conductance to CO&#8322;.|
 |**requiredProtocols**    |Method for fitting data (provide reference or code repository). Include kineticConstants and their temperature dependency in methodsMetadata.|
 |**references**           |Bernacchi et al. (2013), Collatz (1992), von Caemmerer (2000), Dubois et al (2007), Duursma et al (2015), Farquhar et al (1980), Gu et al. (2010), Sharkey et al (2007), Zhou et al (2019)|
 
 ### Vcmax from one-point
 |data type                |Vcmax from one-point|
 |:------------------------|:----------------------------------------------------|
-|**summary**              |Apparent Vcmax calculated from Asat measurements using the one-point method|
-|**description**          |Results of calculating apparent Vcmax from Asat measurements using the one-point method.|
+|**summary**              |Apparent *Vcmax* calculated from *Asat* measurements using the one-point method|
+|**description**          |Results of calculating apparent *Vcmax* from *Asat* measurements using the one-point method.|
 |**requiredProtocols**    |See details for Survey. Include kineticConstants in methodsMetadata.|
 |**references**           |De Kauwe (2017), Corrigendum (2017), also see Burnett (2019).|
 
 ### Response of photosynthesis to irradiance
-|data type                |Response of photosynthesis to irradiance (AQ curves)|
+|data type                |Response of photosynthesis to irradiance (*AQ* curves)|
 |:------------------------|:----------------------------------------------------|
 |**summary**              |Sequential measurements on the same leaf material of photosynthetic rate with varying irradiance|
 |**description**          |The response of photosynthesis to irradiance determined by measuring the response of photosynthesis to changes in irradiance at constant leaf temperature and atmospheric CO&#8322; concentration. Response curves can be measured slowly to allow full stomatal acclimation to each new level of irradiance (> 15 minutes at each step) or rapidly when the response of stomata is not of interest. To estimate Rlight a high number of points at low irradiance are required.   |
 |**requiredProtocols**    |Time period of leaf acclimation to chamber conditions, and if steady state gas exchange was achieved. Sequence and timing of irradiance changes. Use of incident or absorbed light. State value used for leaf absorptance, if assumed or measured, and method if measured. Indicate if reported values are single measurements or averaged values. |
 |**references**           |Posada et al (2009), Verryckt et al (2020)|
 
-### Photosynthetic parameters derived from AQ curves
-|data type                |Photosynthetic parameters derived from AQ curves |
+### Photosynthetic parameters derived from *AQ* curves
+|data type                |Photosynthetic parameters derived from *AQ* curves |
 |:------------------------|:----------------------------------------------------|
 |**summary**              |Results of fitting light response curves to derive parameters|
 |**description**          |Results of fitting light response curves to a photosynthesis model to derive parameters, e.g. quantum yield of CO&#8322; fixation, light compensation point|
