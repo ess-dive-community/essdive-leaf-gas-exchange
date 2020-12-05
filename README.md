@@ -34,7 +34,7 @@ Darwin Core maintenance group, Biodiversity Information Standards (TDWG) (2014).
 
 ## Copyright information
 
-The Leaf-leaf gas exchage data and metadata reporting format is licensed under the Creative Commons Attribution 4.0 International (CCby4).
+The leaf-level gas exchange data and metadata reporting format is licensed under the Creative Commons Attribution 4.0 International (CCby4).
 
 ## Funding and acknowledgements
 
