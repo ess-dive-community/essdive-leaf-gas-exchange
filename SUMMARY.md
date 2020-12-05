@@ -8,5 +8,4 @@
     * [Required variables for data tables](docs/requiredVariables.md)
     * [Defined variables](docs/definedVariables.md)
     * [Instrument output translation](docs/instrumentOutputTranslation.md)
-    * [Guide to preparing supplementary metadata for leaf-level gas exchange data](docs/supplementaryMetadataGuide.md)
-* [Guidelines for contributing](contribute.md)    
+    * [Guide to preparing supplementary metadata for leaf-level gas exchange data](docs/supplementaryMetadataGuide.md)    
