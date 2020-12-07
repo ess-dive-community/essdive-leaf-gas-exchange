@@ -22,5 +22,5 @@ We will continue to work with the ESS community to improve data and metadata rep
 ## Example data package
 Here is an example data package that follows these reporting format guidelines.
 
-Rogers, Alistair, Kim Ely, Shawn Serbin. 2019. Leaf Photosynthetic Parameters: Quantum Yield, Convexity, Respiration, Gross CO2 Assimilation Rate and Raw Gas Exchange Data, Barrow, Alaska, 2016. *Next Generation Ecosystem Experiments Arctic Data Collection*, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, USA. [doi.org/10.5440/1482338](https://doi.org/10.5440/1482338).
+Rogers, Alistair, Kim Ely, Shawn Serbin (2019). Leaf Photosynthetic Parameters: Quantum Yield, Convexity, Respiration, Gross CO&#8322; Assimilation Rate and Raw Gas Exchange Data, Barrow, Alaska, 2016. *Next Generation Ecosystem Experiments Arctic Data Collection*, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, USA. [doi.org/10.5440/1482338](https://doi.org/10.5440/1482338).
 #
