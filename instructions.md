@@ -17,7 +17,7 @@ Inclusion of additional related datasets with gas exchange data is encouraged. T
 
 Defined variables should be used where available. For variables not yet covered by this reporting format documentation, data contributors should use machine readable variable names that are in common use. 
 
-We will continue to work with the ESS community to improve data and metadata reporting formats for leaf-level gas exchange data. Please [contribute](contribute.md) by submitting issues, using our issue templates, or contact ess-dive-support@lbl.gov to provide any feedback on the process of formatting data, specific metadata fields or controlled vocabulary terms.
+We will continue to work with the ESS community to improve data and metadata reporting formats for leaf-level gas exchange data. Please contribute by submitting [issues](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/issues/new/choose), using our issue templates, or contact ess-dive-support@lbl.gov to provide any feedback on the process of formatting data, specific metadata fields or controlled vocabulary terms.
 
 ## Example data package
 Here is an example data package that follows these reporting format guidelines.
