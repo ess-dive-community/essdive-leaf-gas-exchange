@@ -44,7 +44,7 @@ The format was developed with input and feedback of over 80 subject experts, inc
 
 For further description of the reporting format, and the development process, refer to:
 
-Ely et al (2021). A reporting format for leaf-level gas exchange data and metadata. Ecological Informatics (accepted). 
+Ely et al (2021). A reporting format for leaf-level gas exchange data and metadata. Ecological Informatics. https://doi.org/10.1016/j.ecoinf.2021.101232 
 
 ## Recommended citation
 
