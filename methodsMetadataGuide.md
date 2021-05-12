@@ -16,7 +16,6 @@ The main purpose of this metadata collection will be to aid data search with som
 
 ---
 
-[photosyntheticPathway*](#photosyntheticpathway) | 
 [plantType*](#planttype) | 
 [leafType*](#leaftype) | 
 [requiredProtocols*](#requiredprotocols)
@@ -76,20 +75,11 @@ The main purpose of this metadata collection will be to aid data search with som
 
 ---
 
-### photosyntheticPathway
-|**Metadata Element**|photosyntheticPathway|
-|:----------------------------------------------------|:----------------------------------------------------|
-|**Required, Recommended, or Optional**|`required`|
-|**Description**|Photosynthetic pathway of measured plants.|
-|**Format**|Controlled vocabulary or free text|
-|**Additional instructions**|List all that apply, use a semi-colon to delimit multiple terms.|
-|Controlled vocabulary terms|C3; C4; CAM|
-
 ### plantType
 |**Metadata Element**|planttType|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Required, Recommended, or Optional**|`required`|
-|**Description**|Describe the plant type(s) measured.|
+|**Description**|Photosynthetic pathway of measured plants.|
 |**Format**|Controlled vocabulary or free text|
 |**Additional instructions**|List all that apply, use a semi-colon to delimit multiple terms.|
 |Controlled vocabulary terms|C3; C4; CAM|
