@@ -10,14 +10,15 @@ The main purpose of this metadata collection will be to aid data search with som
 
 `*` indicate required content
 
-[dataTypes*](#datatypes) | 
+[dataType*](#datatype) | 
 [additionalDataIncluded*](#additionaldataincluded) | 
 [instrumentOutputStatus*](#instrumentoutputstatus)
 
 ---
 
 [photosyntheticPathway*](#photosyntheticpathway) | 
-[leafMorphology*](#leafmorphology) | 
+[plantType*](#planttype) | 
+[leafType*](#leaftype) | 
 [requiredProtocols*](#requiredprotocols)
 
 ---
@@ -47,12 +48,12 @@ The main purpose of this metadata collection will be to aid data search with som
 ---
 
 ### dataTypes
-|**Metadata Element**|dataTypes|
+|**Metadata Element**|dataType|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Required Recommended Optional**|`required`|
-|**Description**|List data types included in data package. Refer to data types in documentation for definitions. |
+|**Description**|Enter data type described by this methods metadata file. Refer to data types in documentation for definitions. |
 |**Format**|Controlled vocabulary or free text|
-|**Additional Instructions**|List all that apply, use a semi-colon to delimit multiple terms.|
+|**Additional Instructions**||
 |**Controlled vocabulary terms**|Refer to data types table for list.|
 
 ### additionalDataIncluded
@@ -84,8 +85,17 @@ The main purpose of this metadata collection will be to aid data search with som
 |**Additional instructions**|List all that apply, use a semi-colon to delimit multiple terms.|
 |Controlled vocabulary terms|C3; C4; CAM|
 
-### leafMorphology
-|**Metadata Element**|leafMorphology|
+### plantType
+|**Metadata Element**|planttType|
+|:----------------------------------------------------|:----------------------------------------------------|
+|**Required, Recommended, or Optional**|`required`|
+|**Description**|Describe the plant type(s) measured.|
+|**Format**|Controlled vocabulary or free text|
+|**Additional instructions**|List all that apply, use a semi-colon to delimit multiple terms.|
+|Controlled vocabulary terms|C3; C4; CAM|
+
+### leafType
+|**Metadata Element**|leafType|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Required, Recommended, or Optional**|`required`|
 |**Description**|Describe the leaf type(s) measured.|
