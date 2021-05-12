@@ -46,7 +46,7 @@ The main purpose of this metadata collection will be to aid data search with som
 
 ---
 
-### dataTypes
+### dataType
 |**Metadata Element**|dataType|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Required Recommended Optional**|`required`|
@@ -76,7 +76,7 @@ The main purpose of this metadata collection will be to aid data search with som
 ---
 
 ### plantType
-|**Metadata Element**|planttType|
+|**Metadata Element**|plantType|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Required, Recommended, or Optional**|`required`|
 |**Description**|Photosynthetic pathway of measured plants.|
