@@ -3,6 +3,8 @@ Supplementary metadata tables should be provided to explain codes used in data t
 
 Here are some typical examples of how to present these metadata. Tables should be included in data packages as .csv files.
 
+Guidance on variable names and descriptions should be taken from other ESS-DIVE data formats where available, for example, the [Sample ID and Metadata Reporting Format](https://github.com/ess-dive-community/essdive-sample-id-metadata).  
+
 ### Species information example
 **Metadata variable**|**Format**|**Description**|**Example**
 -----|-----|-----|-----
