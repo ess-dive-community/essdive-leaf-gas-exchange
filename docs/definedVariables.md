@@ -19,7 +19,7 @@ dH2O|mmol mol⁻¹|Sample minus reference H&#8322;O concentration in air| |
 E|mmol m⁻² s⁻¹|Transpiration rate of H&#8322;O per leaf area. Note that output units from some instruments are in mol and will require conversion.| | 
 flow|µmol s⁻¹|Flow rate of air into chamber| | 
 gbw|mmol m⁻² s⁻¹|Boundary layer conductance to water vapor per leaf area| | 
-gsw|mmol m⁻² s⁻¹|Stomatal conductance to water vapor per leaf area|0|100
+gsw|mmol m⁻² s⁻¹|Stomatal conductance to water vapor per leaf area|0|1000
 H2Or|mmol mol⁻¹|H&#8322;O concentration in air entering chamber| | 
 H2Os|mmol mol⁻¹|H&#8322;O concentration in air inside chamber| | 
 Patm|kPa|Atmospheric pressure|50|120
