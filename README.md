@@ -1,4 +1,4 @@
-# ESS-DIVE Leaf-level gas exchange data and metadata reporting format
+# ESS-DIVE Leaf-level gas exchange data and metadata reporting format v1.0.2
 
 This documentation contains guidance for the content and format of leaf-level gas exchange data and metadata. The reporting format comprises defined variable names and units for data tables, a methods metadata template, and instrument details template and guidance on inclusion of other related data and metadata.   
 
@@ -25,6 +25,10 @@ Other documents to get started:
 - [Instrument details template](templates/instrumentDetailsTemplate.xlsx): Download spreadsheet template to record instrument details. 
 
 ---
+## Updates in v1.0.2
+
+Updated methods metadata guide to reflect term usage in methods metadata template (dataTypes to dataType, leafMorphology to leafType, photosyntheticPathway to plantType). Template updated with minor change (dataTypes to dataType).
+
 ## How to contribute 
 
 This leaf-level gas exchange data reporting format is evolving and growing to meet the needs of the community. Feedback and new contributions are welcome, and can be made by submitting an [issue or feedback](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/issues/new/choose).  
