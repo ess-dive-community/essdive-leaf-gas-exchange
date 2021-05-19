@@ -29,6 +29,8 @@ Other documents to get started:
 
 Updated methods metadata guide to reflect term usage in methods metadata template (dataTypes to dataType, leafMorphology to leafType, photosyntheticPathway to plantType). Template updated with minor change (dataTypes to dataType).
 
+See Releases for conpmlete versioning details. 
+
 ## How to contribute 
 
 This leaf-level gas exchange data reporting format is evolving and growing to meet the needs of the community. Feedback and new contributions are welcome, and can be made by submitting an [issue or feedback](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/issues/new/choose).  
