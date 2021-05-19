@@ -29,7 +29,7 @@ Other documents to get started:
 
 Updated methods metadata guide to reflect term usage in methods metadata template (dataTypes to dataType, leafMorphology to leafType, photosyntheticPathway to plantType). Template updated with minor change (dataTypes to dataType).
 
-See Releases for conpmlete versioning details. 
+See Releases for complete versioning details. 
 
 ## How to contribute 
 
