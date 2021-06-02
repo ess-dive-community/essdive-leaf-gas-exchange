@@ -21,7 +21,7 @@ Instructions for how to use this reporting format:
 - [Leaf-level gas exchange reporting format instructions](instructions.md) 
 
 Other documents to get started:
-- [Methods metadata template](templates/https://github.com/ess-dive-community/essdive-leaf-gas-exchange/blob/master/templates/methodsMetadataTemplate.xlsx): Download spreadsheet template for recording experiment and methods metadata. 
+- [Methods metadata template](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/blob/master/templates/methodsMetadataTemplate.xlsx): Download spreadsheet template for recording experiment and methods metadata. 
 - [Instrument details template](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/blob/master/templates/instrumentDetailsTemplate.xlsx): Download spreadsheet template to record instrument details. 
 
 ---
