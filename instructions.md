@@ -6,9 +6,9 @@ A data package containing leaf-level gas exchange data must include, at a minimu
 
 2. Collate the full instrument output files, and assess the quality control level. Note that there is no requirement to edit column headers in full instrument output files to standard variable names.  
 
-3. Fill in the [Methods metadata template](templates/methodsMetadataTemplate.xlsx), ensuring that [required protocols](dataTypesProtocols.md) for each data type are described. See our [methods metadata guide](methodsMetadataGuide.md) for descriptions and instructions for each metadata field. Save as csv file type. A separate methods metadata file should be created for each data type included in the data package. 
+3. Fill in the [Methods metadata template](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/blob/master/templates/methodsMetadataTemplate.xlsx), ensuring that [required protocols](dataTypesProtocols.md) for each data type are described. See our [methods metadata guide](methodsMetadataGuide.md) for descriptions and instructions for each metadata field. Save as csv file type. A separate methods metadata file should be created for each data type included in the data package. 
 
-4. Fill in the [Instrument details template](templates/instrumentDetailsTemplate.xlsx) and save as csv file type.
+4. Fill in the [Instrument details template](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/blob/master/templates/instrumentDetailsTemplate.xlsx) and save as csv file type.
 
 5. Prepare methods supplements tables to define codes used to capture sample characteristics in the data tables. See our [supplement metadata guide](docs/supplementaryMetadataGuide.md) for guidance. Save each file as csv file type.
 
@@ -23,4 +23,3 @@ We will continue to work with the ESS community to improve data and metadata rep
 Here is an example data package that follows these reporting format guidelines.
 
 Rogers, Alistair, Kim Ely, Shawn Serbin (2019). Leaf Photosynthetic Parameters: Quantum Yield, Convexity, Respiration, Gross CO&#8322; Assimilation Rate and Raw Gas Exchange Data, Barrow, Alaska, 2016. *Next Generation Ecosystem Experiments Arctic Data Collection*, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, USA. [doi.org/10.5440/1482338](https://doi.org/10.5440/1482338).
-#
