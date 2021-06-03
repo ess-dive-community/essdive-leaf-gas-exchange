@@ -15,7 +15,7 @@ The ESS-DIVE leaf-level gas exchange data and metadata reporting format has been
 
 For a full description of the reporting format, refer to Ely et al (2021). A reporting format for leaf-level gas exchange data and metadata. Ecological Informatics. https://doi.org/10.1016/j.ecoinf.2021.101232 
 
-## Getting started
+## Getting started: links to instructions and templates
 
 Instructions for how to use this reporting format:
 - [Leaf-level gas exchange reporting format instructions](instructions.md) 
