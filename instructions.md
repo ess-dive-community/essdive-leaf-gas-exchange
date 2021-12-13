@@ -19,6 +19,13 @@ Defined variables should be used where available. For variables not yet covered 
 
 We will continue to work with the ESS community to improve data and metadata reporting formats for leaf-level gas exchange data. Please contribute by submitting [issues](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/issues/new/choose), using our issue templates, or contact ess-dive-support@lbl.gov to provide any feedback on the process of formatting data, specific metadata fields or controlled vocabulary terms.
 
+## Use of this format with other ESS-DIVE reporting formats
+The ESS-DIVE collection of reporting formats includes formats for different measurement types and also for file and metadata structures. The collection is designed to be modular, so use of multiple reporting formats will be required to correctly format a data package. As such, the content of this Leaf-level gas exchange data and metadata reporting format is limited to guidance specific to gas exchange data. 
+
+For ESS-DIVE data packages, file formats should follow those presented in the [csv file](https://github.com/ess-dive-community/essdive-csv-structure) and [file level metadata](https://github.com/ess-dive-community/essdive-file-level-metadata) reporting format documentation. The [ESS-DIVE Reporting Format for Comma-separated Values (CSV) File Structure](https://github.com/ess-dive-community/essdive-csv-structure) includes guidance for many general data types, including missing values, temporal and spatial data. Supplementary data should follow the relevant data format, where available, such as the [ESS-DIVE Sample ID and Metadata Reporting Format (IGSN-ESS)](https://github.com/ess-dive-community/essdive-sample-id-metadata). 
+
+Refer to the [ESS-DIVE Community Space](https://github.com/ess-dive-community) for a complete list of available reporting formats. 
+
 ## Example data package
 Here is an example data package that follows these reporting format guidelines.
 
