@@ -1,4 +1,4 @@
-# ESS-DIVE Leaf-level gas exchange data and metadata reporting format v1.0.2
+# ESS-DIVE Leaf-level gas exchange data and metadata reporting format v1.0.3
 
 This documentation contains guidance for the content and format of leaf-level gas exchange data and metadata. The reporting format comprises defined variable names and units for data tables, a methods metadata template, and instrument details template and guidance on inclusion of other related data and metadata.   
 
