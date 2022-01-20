@@ -25,9 +25,9 @@ Other documents to get started:
 - [Instrument details template](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/blob/master/templates/instrumentDetailsTemplate.xlsx): Download spreadsheet template to record instrument details. 
 
 ---
-## Updates in v1.0.2
+## Updates in v1.0.3
 
-Updated methods metadata guide to reflect term usage in methods metadata template (dataTypes to dataType, leafMorphology to leafType, photosyntheticPathway to plantType). Template updated with minor change (dataTypes to dataType).
+Added a section to the Instructions on how to use this format in combination with other reporting formats to provide guidance on missing value, temporal and spatial data types.
 
 See Releases for complete versioning details. 
 
