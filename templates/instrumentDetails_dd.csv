@@ -1,0 +1,8 @@
+Column_or_Row_Name,Unit,Definition,Data_Type
+instrumentName,N/A,Individual instrument identifier,text
+instrumentType,N/A,Instrument make & model. Describe any custom modifications in comments.,text
+instrumentChamber,N/A,Sample chamber or cuvette model. Describe any custom modifications in comments.,text
+instrumentSoftwareVersion,N/A,Software version,text
+instrumentSerial,N/A,Serial number,text
+calibrationDate,YYYY-MM-DD,Date of last calibration,date
+comments,N/A,Describe any custom modifications and any other relevant information.,text

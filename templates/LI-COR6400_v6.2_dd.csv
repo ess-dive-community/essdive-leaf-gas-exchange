@@ -1,0 +1,61 @@
+Column_or_Row_Name,Unit,Definition,Data_Type
+Obs,N/A,# Obs stored in log file,numeric
+HHMMSS,HH:mm:ss,Real time clock,dateTime
+FTime,seconds,Time since log file opened,numeric  
+EBal?,N/A,"Energy balance? 1=yes, 0=no",integer
+Photo,µmol m-2 s-1,Photosynthetic rate,numeric
+Cond,mol m-2 s-1,Conductance to H2O,numeric
+Ci,µmol mol-1,Intercellular CO2 concentration,numeric
+Trmmol,mmol m-2 s-1,Transpiration rate,numeric
+VpdL,kPa,Vapor pressure deficit based on leaf temp,numeric
+CTleaf,degrees Celsius,Computed leaf temperature. Same as Tleaf unless doing energy balance.,numeric
+Area,cm2,Leaf area cm2,numeric
+BLC_1,none,One sided BLC,numeric
+StmRat,N/A,Stomatal ratio estimate,numeric
+BLCond,mol m-2 s-1,Total boundary layer conductance for the leaf (includes stomatal ratio),numeric
+Tair,degrees Celsius,Chamber air temperature,numeric
+Tleaf,degrees Celsius,Temperature of leaf thermocouple,numeric
+TBlk,degrees Celsius,Temperature of cooler block,numeric
+CO2R,µmol mol-1,Reference cell CO2,numeric
+CO2S,µmol mol-1,Sample cell CO2,numeric
+H2OR,mmol mol-1,Reference cell H2O,numeric
+H2OS,mmol mol-1,Sample cell H2O,numeric
+RH_R,%,Relative humidity of air inside the reference cell,numeric
+RH_S,%,Relative humidity of air inside the sample cell,numeric
+Flow,µmol s-1,Flow rate to the sample cell,numeric
+PARi,µmol m-2 s-1,In-chamber quantum sensor,numeric
+PARo,µmol m-2 s-1,External quantum sensor,numeric
+Press,kPa,Atmospheric pressure,numeric
+CsMch,µmol mol-1,CO2 sample matching offset,numeric
+HsMch,mmol mol-1,H2O sample matching value,numeric
+CsMchSD,µmol mol-1,CO2 sample standard deviation during match,numeric
+HsMchSD,mmol mol-1,H2O sample standard deviation during match,numeric
+CrMchSD,µmol mol-1,CO2 reference standard deviation during match,numeric
+HrMchSD,mmol mol-1,H2O reference standard deviation during match,numeric
+StableF,N/A,Stability status as a decimal value,numeric
+BLCslope,N/A,Boundary layer conductance slope as function of area,numeric
+BLCoffst,N/A,Boundary layer conductance offset as function of area,numeric
+f_parin,N/A,ParIn weighting for EB,numeric
+f_parout,N/A,ParOut weighting for EB,numeric
+alphaK,N/A,Absorptance and conversion factor,numeric
+Status,N/A,Numerical status code,text
+fda,µmol s-1 m-2,Flow / area with units conversion,numeric
+Trans,mol m-2 s-1,Transpiration   ,numeric
+Tair_K,Kelvin,Air temp in K,numeric
+Twall_K,Kelvin,Twall temperautre K,numeric
+R(W/m2),watt m-2,Incoming radiation,numeric
+Tl-Ta,Kelvin,Energy balance delta T,numeric
+SVTleaf,degrees Celsius,SatVap (Tleaf),numeric
+h2o_i,N/A,Intracellular H2O,numeric  
+h20diff,N/A,Diff,numeric  
+CTair,degrees Celsius,Computed chamber air temp,numeric
+SVTair,degrees Celsius,SatVap (Tair),numeric
+CndTotal,N/A,Total conductance  ,numeric
+vp_kPa,kPa,Vapor pressure chamber air,numeric
+VpdA,kPa,Vapor pressure deficit based on air temp,numeric
+CndCO2,N/A,Total conductance to CO2,numeric
+Ci_Pa,Pa,Intracellular CO2 (Pa),numeric
+Ci/Ca,N/A,Intercellular CO2 / Ambient CO2,numeric
+RHsfc,%,Surface humidity (%),numeric
+C2sfc,µmol mol-1,Surface CO2,numeric
+AHs/Cs,mol m-2 s-1,Ball-Berry parameter,numeric

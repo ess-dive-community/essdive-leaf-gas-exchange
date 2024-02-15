@@ -1,0 +1,19 @@
+Column_or_Row_Name,Unit,Definition,Data_Type
+dataType,N/A,Data type described by this methods metadata file. ,text
+additionalDataIncluded,N/A,"Indicates if additional data collected in-line during gas exchange is included. e.g. fluorescence, isotopic discrimination",text
+instrumentOutputStatus,N/A,Indicates the highest quality status of complete instrument output included in the data package. Multiple versions may be included.,text
+plantType,N/A,Photosynthetic pathway of measured plants.,text
+leafType,N/A,Leaf type(s) measured.,text
+requiredProtocols,N/A,Details of measurement protocols.,text
+mesophyllConductanceType,N/A,Description of assumption or measurement of mesophyll conductance.,text
+leafStatus,N/A,Description of the leaf status during gas exchange measurement.,text
+leafAreaBasis,N/A,Description of the basis for measurement of leaf area.,text
+leafAreaMethod,N/A,Description of the methods used for measurement of leaf area.,text
+kineticConstants,N/A,"Citations and values for kinetic constants, and their temperature dependance.",text
+growthEnvironment,N/A,Description of the plant growth environment.,text
+experimentalTreatment,N/A,Description of any applied sample manipulations.,text
+plantAge,N/A,"Age in appropriate units (days, months, years) or relative age category (e.g. seedling, germling, sapling, mature) or other classification relevant to experiment.",text
+leafAge,N/A,"Age in appropriate units (days, months, years) or relative age category (e.g. young, mature, old) or other classification (e.g. most recent fully expanded, physiologically mature leaf; LPI classification).",text
+canopyPosition,N/A,Position of leaf samples within canopy.,text
+canopyHeight,N/A,Sample canopy position and canopy height or LAI recorded.,text
+lightExposure,N/A,Light environment of leaf samples.,text

@@ -1,0 +1,65 @@
+Column_or_Row_Name,Unit,Definition,Data_Type
+date,YYYY-MM-DD,Date of observation,dateTime
+time,HH:MM:SS,Time of observation,dateTime
+record,N/A,Observation record number,numeric
+area,cm2,Leaf area,numeric
+A,µmol m-2 s-1,Net CO2 exchange per leaf area,numeric
+Amax,µmol m-2 s-1,Highest rate of light and CO2 saturated A,numeric
+Asat,µmol m-2 s-1,Highest rate of light saturated A at ambient CO2 concentration,numeric
+Ci,µmol mol-1,Intercellular CO? concentration in air,numeric
+CO2r,µmol mol-1,CO2 concentration in wet air entering chamber,numeric
+CO2s,µmol mol-1,CO2 concentration in wet air inside chamber,numeric
+dCO2,µmol mol-1,Sample minus reference CO2 concentration in air,numeric
+dH2O,mmol mol-1,Sample minus reference H2O concentration in air,numeric
+E,mmol m-2 s-1,Transpiration rate of H2O per leaf area. Note that output units from some instruments are in mol and will require conversion.,numeric
+flow,µmol s-1,Flow rate of air into chamber,numeric
+gbw,mmol m-2 s-1,Boundary layer conductance to water vapor per leaf area,numeric
+gsw,mmol m-2 s-1,Stomatal conductance to water vapor per leaf area,numeric
+H2Or,mmol mol-1,H2O concentration in air entering chamber,numeric
+H2Os,mmol mol-1,H2O concentration in air inside chamber,numeric
+Patm,kPa,Atmospheric pressure,numeric
+Qin,µmol m-2 s-1,"In-chamber photosynthetic flux density (PPFD) incident on the leaf, quanta per area",numeric
+Qout,µmol m-2 s-1,"External photosynthetic flux density (PPFD), quanta per area",numeric
+RHr,%,Relative humidity of air entering the chamber,numeric
+RHs,%,Relative humidity of air inside the chamber,numeric
+Tair,°C,Air temperature inside the chamber,numeric
+Tleaf,°C,Leaf surface temperature,numeric
+VPDleaf,kPa,Leaf to air vapor pressure deficit,numeric
+AsatG,µmol m-2 s-1,Maximum rate of gross CO2 assimilation derived from the light response curve. Equivalent to total of CO2 assimilation and CO2 release.,numeric
+CE,mol m-2 s-1,"Maximum carboxylation efficiency, based on an empirical determination of the initial slope of an ACi curve",numeric
+CiCa,N/A,Ratio of intercellular CO2 to sample chamber CO2,numeric
+CO2comp,µmol mol-1,CO2 compensation point,numeric
+gm,mol m-2 s-1,Mesophyll conductance to CO2 per leaf area,numeric
+J,µmol m-2 s-1,"Rate of electron transport per leaf area at measurement temperature calculated assuming infinite mesophyll conductance for a given irradiance e.g. J1800. Or at reference temperature e.g., J1800,25",numeric
+Jmax,µmol m-2 s-1,Maximum rate of electron transport per leaf area at measurement temperature calculated assuming infinite mesophyll conductance and saturating light,numeric
+Jmax25,µmol m-2 s-1,"Maximum rate of electron transport per leaf area, at the reference temperature 25°C calculated assuming infinite mesophyll conductance and saturating light",numeric
+LCP,µmol m-2 s-1,Light compensation point. The lowest photosynthetic photon flux density at which positive net CO2 assimilation is observed,numeric
+LSP,µmol m-2 s-1,Light saturation point. The irradiance at which further increases in irradiance level do not increase net CO2 assimilation rate.,numeric
+PhiCO2a,mol mol-1,Maximum quantum yield of CO2 assimilation based on absorbed irradiance,numeric
+PhiCO2i,mol mol-1,Maximum quantum yield of CO2 assimilation based on incident irradiance,numeric
+PhiJa,mol mol-1,Maximum quantum yield of electron transport based on arbsorbed irradiance,numeric
+PhiJi,mol mol-1,Maximum quantum yield of electron transport based on incident irradiance,numeric
+Rdark,µmol m-2 s-1,"CO2 release from the leaf in the dark, at measurement temperature, reported as a positive value",numeric
+Rdark25,µmol m-2 s-1,"CO2 release from the leaf in the dark, at the reference temperature of 25°C, reported as a positive value",numeric
+Rday,µmol m-2 s-1,"CO2 release from the leaf in the light, reported as a positive value",numeric
+Rday25,µmol m-2 s-1,"CO2 release from the leaf in the light, at the reference temperature of 25°C, reported as a positive value.",numeric
+Theta,N/A,Empirical convexity parameter derived from the non-rectangular hyperbolic model of the light response curve,numeric
+TPU,µmol m-2 s-1,Triose phosphate utilization rate per leaf area at measurement temperature,numeric
+TPU25,µmol m-2 s-1,Triose phosphate utilization rate per leaf area at the reference temperature 25°C,numeric
+Vcmax,µmol m-2 s-1,"Maximum rate of carboxylation at measurement temperature, calculated assuming infinite mesophyll conductance, i.e. apparent Vcmax",numeric
+Vcmax25,µmol m-2 s-1,"Maximum rate of carboxylation, at the reference temperature 25°C, calculated assuming infinite mesophyl conductance, i.e. apparent Vcmax",numeric
+Vpmax,µmol m-2 s-1,Phosphoenolpyruvate (PEP) saturated PEP carboxylation at measurement temperature,numeric
+WUEi,µmol mol-1,Intrinsic water use efficiency. Net CO2 exchange per leaf area divided by stomatal conductance to water vapor per leaf area,numeric
+Alpha,N/A,Leaf absorptance of visible radiation (400-730 nm),numeric
+EaGammaStar,kJ mol-1,Activation energy associated with the temperature response of gammaStar,numeric
+EaKc,kJ mol-1,Activation energy associated with the temperature response of Kc,numeric
+EaKo,kJ mol-1,Activation energy associated with the temperature response of Ko,numeric
+EaVcmax,kJ mol-1,Activation energy associated with the temperature response of Vcmax,numeric
+EaVomax,kJ mol-1,"Activation energy associated with the temperature response of Vomax, the maximum rate of oxygenation",numeric
+f,N/A,Fraction of light absorbed by photosystem II that is not used for photochemistry,numeric
+gammaStar25,µmol mol-1,CO2 compensation point in the absence of non-photorespiratory CO2 release at the reference temperature of 25°C,numeric
+Kc25,µmol mol-1,Michaelis constant for CO2 concentration in air at the reference temperature of 25°C,numeric
+Ko25,mmol mol-1,Michaelis constant for O2 concentration in air at the reference temperature of 25°C,numeric
+Oi,mmol mol-1,Intercellular O2 concentration in air (default 210 unless experimentally manipulated),numeric
+Tau25,N/A,CO2:O2 specificity ratio at a reference temperature of 25°C,numeric
+TauQ10,N/A,Q10 temperature response parameter used to scale Tau25,numeric
